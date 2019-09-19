@@ -1,0 +1,20 @@
+.nav-bar{
+    padding: 1rem 2rem;
+    text-decoration: underline;
+    background-color: black;
+    color: white
+}
+.heading-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0.5rem 1rem;
+}
+.logo{
+    background-color: black;
+    /* display: inline-block; */
+    position: absolute;
+}
+.content-inline{
+    display: inline-block;
+}
