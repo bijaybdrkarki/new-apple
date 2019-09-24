@@ -1,26 +1,64 @@
 .nav-bar{
-    padding: 1rem 2rem;
-    text-decoration: underline;
+    padding: 1rem 1rem 1rem 1rem;
+    border-bottom: 0.1px solid white;
     background-color: black;
-    color: white
+    color: white;
+    text-align: left;
+
 }
 .heading-section{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 0.5rem 1rem;
+    padding: 1rem 1rem;
+}
+.iphone11pro{
+    background-image: url(../img/iphone11pro.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 30em;
+}
+.iphone11{
+    background-image: url(../img/iphone11.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 30em;
 }
 .logo{
     background-color: black;
-    /* display: inline-block; */
-    position: absolute;
+    padding: 0.5rem 48%;
 }
-.content-inline{
-    display: inline-block;
+.spacing{
+    padding-left: 1.5rem;
 }
 h1{
     font-size: 32px;
+    color: white;
+    text-align: center;
+    padding: 2rem 0 0 0;
+    
 }
 h2{
     font-size: 19px;
+    text-align: center;
+    color: white;
+    padding: 0.5rem;
+}
+h3{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    padding: 0.5rem
+}
+.link{
+    text-align: center;
+    /* background-color: black; */
+    color: #6bf;
+    font-size: 19px;
+}
+.h1h2-color{
+    color: black;
+}
+.h3-color{
+    color:rgb(136,136,136);
 }
